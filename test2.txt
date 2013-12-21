@@ -3,4 +3,8 @@ test
 
 add
 
+<<<<<<< HEAD
 local
+=======
+remort
+>>>>>>> fee0d94d66dead5ace38bfc487e295fc5cbf86d6
