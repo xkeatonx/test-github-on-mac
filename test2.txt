@@ -2,3 +2,5 @@ test
 ほげほげ２
 
 add
+
+local
